@@ -1,0 +1,8 @@
+part of 'movie_popular_bloc.dart';
+
+class MoviePopularEvent extends Equatable {
+  const MoviePopularEvent();
+
+  @override
+  List<Object> get props => [];
+}
